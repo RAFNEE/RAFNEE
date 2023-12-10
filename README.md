@@ -22,3 +22,4 @@
 <img src="https://img.shields.io/badge/ARMkeil-394049?style=flat&logo=armkeil&logoColor=white">
 
 ![RAFNEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAFNEE&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAFNEE&langs_count=10&layout=compact&theme=dark)](https://github.com/RAFNEE/RAFNEE)
