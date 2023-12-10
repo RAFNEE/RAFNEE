@@ -2,7 +2,7 @@
 
 ### 💳 Introduction
 #
-* I'm A-10 Thunderbolt II
+* I'm RAFNEE
 
 ### ⌨ skill
 #
