@@ -15,7 +15,7 @@
 #
 #### << Tool >>
 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Quartus-40AEF0?style=flat&logo=quartus&logoColor=white">
 <img src="https://img.shields.io/badge/ARMkeil-394049?style=flat&logo=armkeil&logoColor=white">
