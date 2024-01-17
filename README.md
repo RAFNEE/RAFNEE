@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=36B6E5&height=130&section=header&text=RAFNEE&animation=bilnk&fontSize=70&fontAlignY=70&fontColor=0F0F0F&)
-
 ### 💳 Introduction
 #
 * I'm RAFNEE
